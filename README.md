@@ -2,7 +2,7 @@
 
 Welcome to **Pokédex**, a sleek, responsive web application that allows users to explore detailed Pokémon data using the PokéAPI. Built with **React** and styled using **fantaCSS**, this project showcases modern frontend development practices including API integration, client-side caching, modals, and smooth deployment workflows.
 
-[🔗 Live Demo]([https://my-cool-pokedex.netlify.app/]) | [📂 GitHub Repo]([https://github.com/akshithg05/pokedex])
+[🔗 Live Demo](https://my-cool-pokedex.netlify.app/) | [📂 GitHub Repo](https://github.com/akshithg05/pokedex)
 
 ---
 
